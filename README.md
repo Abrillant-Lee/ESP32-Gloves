@@ -1,13 +1,15 @@
 <p align="center"><a href="https://1panel.cn"><img src="./img/水晶标.png" alt="1Panel" width="300" /></a></p>
 
-<p align="center"><b>心中有火，眼中有光，系万物于 鸿蒙，联数据辅众生——IoT，改变世界的开发者</b></p>
 <p align="center">
+  <b>心中有火，眼中有光，系万物于 鸿蒙，联数据辅众生——Maker-IoT，改变世界的开发者</b><br><br>
   <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://shields.io/github/license/1Panel-dev/1Panel?color=%231890FF" alt="License: GPL v3"></a>
-  <a href="https://app.codacy.com/gh/1Panel-dev/1Panel?utm_source=github.com&utm_medium=referral&utm_content=1Panel-dev/1Panel&utm_campaign=Badge_Grade_Dashboard"><img src="https://app.codacy.com/project/badge/Grade/da67574fd82b473992781d1386b937ef" alt="Codacy"></a>
-  <a href="https://github.com/1Panel-dev/1Panel/releases"><img src="https://img.shields.io/github/v/release/1Panel-dev/1Panel" alt="GitHub release"></a>
-  <a href="https://github.com/1Panel-dev/1Panel"><img src="https://img.shields.io/github/stars/1Panel-dev/1Panel?color=%231890FF&style=flat-square" alt="Stars"></a>
-  <a href="https://app.fossa.com/projects/git%2Bgithub.com%2F1Panel-dev%2F1Panel?ref=badge_shield"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2F1Panel-dev%2F1Panel.svg?type=shield" alt="FOSSA Status"></a><br>
-  [<a href="docs/README_TW.md">中文(繁體)</a>] | [<a href="docs/README_EN.md">English</a>] | [<a href="docs/README_JP.md">日本語</a>]
+  <a href="https://github.com/Abrillant-Lee/ESP32-Gloves"><img src="https://img.shields.io/github/stars/1Panel-dev/1Panel?color=%231890FF&style=flat-square" alt="Stars"></a>
+  <a href="https://space.bilibili.com/519646621"><img src="https://img.shields.io/badge/-Bilibili-FF69B4?style=plastic&logo=bilibili&logoColor=white" alt="Bilibili"></a>
+  <a href="https://www.douyin.com/user/MS4wLjABAAAAQibyq20SOLrk5Lk67ktTQZb3-kztJ3k_cC8_eVi1FOA"><img src="https://img.shields.io/badge/-Douyin-000000?style=plastic&logo=tiktok&logoColor=white" alt="Douyin"></a>
+  <a href="https://mp.weixin.qq.com/s/_**FfzsiK6Bpmyho9xrrCHAw**"><img src="https://img.shields.io/badge/-WeChat-7BB32E?style=plastic&logo=wechat&logoColor=white" alt="WeChat"></a><br>
+  <a href="docs/README_TW.md">中文(简体)</a> |  
+  <a href="docs/README_EN.md">English</a> | 
+  <a href="docs/README_TW.md">中文(繁體)</a> 
 </p>
 
 ------------------------------
