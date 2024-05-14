@@ -1,7 +1,7 @@
 <p align="center"><a href=""><img src="./img/水晶标.png" alt="1Panel" width="300" /></a></p>
 <p align="center">
   <b>心中有火，眼中有光，系万物于 鸿蒙，联数据辅众生——Maker-IoT，改变世界的开发者<br>
-  本开源仓库是一款基于ESP32的智能手部数据采集手套，结合弯曲传感器和MPU6050惯性单元，实现对手部动作的精确捕捉与分析。</b><br><br>
+</b><br>
   <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://shields.io/github/license/1Panel-dev/1Panel?color=%231890FF" alt="License: GPL v3"></a>
   <a href="https://github.com/Abrillant-Lee/ESP32-Gloves"><img src="https://img.shields.io/github/stars/1Panel-dev/1Panel?color=%231890FF&style=flat-square" alt="Stars"></a>
   <a href="https://space.bilibili.com/519646621"><img src="https://img.shields.io/badge/-Bilibili-FF69B4?style=plastic&logo=bilibili&logoColor=white" alt="Bilibili"></a>
@@ -9,7 +9,8 @@
   <a href="https://mp.weixin.qq.com/s/_FfzsiK6Bpmyho9xrrCHAw"><img src="https://img.shields.io/badge/-WeChat-7BB32E?style=plastic&logo=wechat&logoColor=white" alt="WeChat"></a><br>
   <a href="docs/README_TW.md">中文(简体)</a> |  
   <a href="docs/README_EN.md">English</a> | 
-  <a href="docs/README_TW.md">中文(繁體)</a> 
+  <a href="docs/README_TW.md">中文(繁體)</a> <br><br>
+    本开源仓库是一款基于ESP32的智能手部数据采集手套，结合弯曲传感器和MPU6050惯性单元，实现对手部动作的精确捕捉与分析。
 </p>
 
 ------------------------------
@@ -19,9 +20,10 @@
 
 模块一：项目介绍与理论基础
 
-  <!-- - ESP32微控制器特性与优势
-  - 弯曲传感器与MPU6050的工作原理与应用
-  - 手部数据采集手套的概念与应用场景 -->
+  - [ESP32微控制器特性与优势]()
+  - [弯曲传感器的工作原理与应用]()
+  - [MPU6050的工作原理与应用]()
+  - 手部数据采集手套的概念与应用场景
 
 模块二：物料准备与选购指南
 
@@ -39,13 +41,14 @@
 
 模块五：数据采集与处理
 
-  - 驱动弯曲传感器与MPU6050读取数据
-  - 数据融合算法讲解：如何结合两种传感器数据提高精度
-  - 实时数据处理与显示
+  - [弯曲传感器：获取弯曲角度]()
+  - [MPU6050：获取三轴陀螺仪、三周加速度数据]()
+  - [数据增强：滤波处理]()
 
 模块六：无线数据传输与应用
 
-  - 数据通过Wi-Fi传输到华为云IoTDA
+  - [华为云IoT DA平台基础使用]()
+  - [通过Wi-Fi连接华为云IoTDA进行属性上报]()
 
 
 #
