@@ -17,7 +17,7 @@
 
 ## 目录
 
-1、Arduino IDE开发环境搭建
+[1、Arduino IDE开发环境搭建](./doc/arduino_env.md)
 
 ##  硬件
 1. 开发板：ESP32
