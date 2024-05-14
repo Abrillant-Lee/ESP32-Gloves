@@ -1,6 +1,7 @@
 <p align="center"><a href=""><img src="./img/水晶标.png" alt="1Panel" width="300" /></a></p>
 <p align="center">
-  <b>心中有火，眼中有光，系万物于 鸿蒙，联数据辅众生——Maker-IoT，改变世界的开发者</b><br><br>
+  <b>心中有火，眼中有光，系万物于 鸿蒙，联数据辅众生——Maker-IoT，改变世界的开发者<br>
+  本开源仓库是一款基于ESP32的智能手部数据采集手套，结合弯曲传感器和MPU6050惯性单元，实现对手部动作的精确捕捉与分析。</b><br><br>
   <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://shields.io/github/license/1Panel-dev/1Panel?color=%231890FF" alt="License: GPL v3"></a>
   <a href="https://github.com/Abrillant-Lee/ESP32-Gloves"><img src="https://img.shields.io/github/stars/1Panel-dev/1Panel?color=%231890FF&style=flat-square" alt="Stars"></a>
   <a href="https://space.bilibili.com/519646621"><img src="https://img.shields.io/badge/-Bilibili-FF69B4?style=plastic&logo=bilibili&logoColor=white" alt="Bilibili"></a>
@@ -13,7 +14,7 @@
 
 ------------------------------
 
->本开源仓库旨在指导学员编码实现一款基于ESP32的智能手部数据采集手套，结合弯曲传感器和MPU6050惯性单元，实现对手部动作的精确捕捉与分析。
+>
 
 # 硬件
 1. 开发板：ESP32
