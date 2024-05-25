@@ -8,6 +8,15 @@
 
 extern Adafruit_MPU6050 mpu;
 
+/*
+接线：
+| ESP32 | MPU6050 |
+| :---: | :-----: |
+|  GND  |   GND   |
+| 3.3v  |   VCC   |
+|  21   |   SDA   |
+|  22   |   SCL   |
+*/
 void MPU6050_Init();
 void MPU6050_Data();
 

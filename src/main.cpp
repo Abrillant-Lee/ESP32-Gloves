@@ -1,6 +1,4 @@
 #include "mqtt.h"
-#include "bsp_servo.h"
-#include "infrared.h"
 #include "flex.h"
 #include "mpu6050.h"
 
