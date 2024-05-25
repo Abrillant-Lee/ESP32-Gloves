@@ -26,6 +26,7 @@ const char *password = "20021113";                                              
 const char *mqttServer = "92e10cb0f7.st1.iotda-device.cn-north-4.myhuaweicloud.com"; // 在华为云IoT的 总览->接入信息->MQTT（1883）后面的网址
 const int mqttPort = 1883;
 // 以下3个参数可以由HMACSHA256算法生成，为硬件通过MQTT协议接入华为云IoT平台的鉴权依据
+// https://iot-tool.obs-website.cn-north-4.myhuaweicloud.com/
 const char *clientId = "6609494b71d845632a033b20_0331_0_0_2024033111";
 const char *mqttUser = "6609494b71d845632a033b20_0331";
 const char *mqttPassword = "8c03c225082feea540f65591dfbbad4cdeed779cca02ac072e3547098358fca7";
